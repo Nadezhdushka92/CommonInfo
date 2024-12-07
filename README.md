@@ -11,7 +11,7 @@
 ### 📌 I have a great interest and desire to develop in a new field of IT!
 ### 📌 I'm currently looking for a job as a Java developer.
 
-### My contacts: https://t.me/Nadezdushka92
+### My contacts: Telegram: https://t.me/Nadezdushka92, Email: anikinana92@yandex.ru
 
 
 
