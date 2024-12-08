@@ -2,9 +2,9 @@
 #### **My Name is Nadezhda Golubeva.**
 
 #### **My Repositories**: 
-1. **Training Course 2020: Test Automation in Python** - book_store_testing, my_projects, Nadezhdushka92.github.io, my-project4, my-shop, my-project, My-work;
-2. **Preparation for the Java developer course Kata, 2023 - first independent project** - Calculator_Java-8
-3. **Training Course: Java Developer Yandex, 2023-2024** - all other projects, starting from git-merge-case and ending with the diploma-project java-explore-with-me
+1. **Training Course, 2020 Be Tester: Test Automation in Python** - book_store_testing, my_projects, Nadezhdushka92.github.io, my-project4, my-shop, my-project, My-work;
+2. **Preparation for the Java developer course, 2023 Kata Academy - first independent project** - Calculator_Java-8;
+3. **Training Course, 2023-2024 Yandex Practicum: Java Developer** - all other projects, starting from git-merge-case and ending with the diploma-project java-explore-with-me.
 
 #### About me
 ##### 📌 For the last 9 years I have worked and continue to work in the field of process control systems until I find my new place of work in the IT field.
