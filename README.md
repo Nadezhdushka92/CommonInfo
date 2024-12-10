@@ -14,26 +14,19 @@
 #### Languages and Tools
 <div>
 <a href="https://www.oracle.com/java" target="_blank">
-  <img src="java.svg" title="Java" alt="Java" width="40" height="40"/>
-</a>
+  <img src="java.svg" title="Java" alt="Java" width="40" height="40" /></a>
 <a href="https://git-scm.com" target="_blank">
-  <img src="git.svg" title="Git" alt="Git" width="40" height="40"/>
-</a>
+  <img src="git.svg" title="Git" alt="Git" width="40" height="40" /></a>
 <a href="https://spring.io" target="_blank">
-  <img src="spring.svg" title="Spring" alt="Spring" width="40" height="40"/>
-</a>
+  <img src="spring.svg" title="Spring" alt="Spring" width="40" height="40" /></a>
 <a href="https://maven.apache.org/" target="_blank">
-    <img src="maven.svg" title="Maven" alt="Maven" width="40" height="40"/>
-</a>
+    <img src="maven.svg" title="Maven" alt="Maven" width="40" height="40" /></a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="postgresql.svg" title="Postgressql" alt="Postgressql" width="40" height="40"/>
-</a>
+  <img src="postgresql.svg" title="Postgressql" alt="Postgressql" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="mysql.svg" title="Mysql" alt="Mysql" width="40" height="40"/>
-</a>  
+  <img src="mysql.svg" title="Mysql" alt="Mysql" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
-</a>
+  <img src="docker.svg" title="Docker" alt="Docker" width="40" height="40" /></a>
 </div>
 
 #### My contacts
